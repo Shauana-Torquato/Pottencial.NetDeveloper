@@ -1,0 +1,5 @@
+C:\WorkspaceGit\PottencialNetDeveloper\tech-test-payment-api-main\obj\Debug\net7.0\tech-test-payment-api-main.csproj.AssemblyReference.cache
+C:\WorkspaceGit\PottencialNetDeveloper\tech-test-payment-api-main\obj\Debug\net7.0\tech-test-payment-api-main.GeneratedMSBuildEditorConfig.editorconfig
+C:\WorkspaceGit\PottencialNetDeveloper\tech-test-payment-api-main\obj\Debug\net7.0\tech-test-payment-api-main.AssemblyInfoInputs.cache
+C:\WorkspaceGit\PottencialNetDeveloper\tech-test-payment-api-main\obj\Debug\net7.0\tech-test-payment-api-main.AssemblyInfo.cs
+C:\WorkspaceGit\PottencialNetDeveloper\tech-test-payment-api-main\obj\Debug\net7.0\tech-test-payment-api-main.csproj.CoreCompileInputs.cache
